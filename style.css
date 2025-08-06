@@ -1,0 +1,59 @@
+
+
+
+body{
+    background-color: rgb(65, 63, 63);
+   
+}
+
+
+h1{
+    color: rgb(244, 0, 0);
+    text-align: center;
+    font-size: 45px;
+}
+
+img{
+    width: 60%;
+    width: 700px;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+h2{
+    color: rgb(249, 67, 67);
+    text-align: center;
+    font-size: 35px;
+}
+
+h3{
+    color: rgb(249, 67, 67);
+    text-align: center;
+    font-size: 35px;
+}
+
+ol li{
+    color: rgb(218, 225, 230);
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    
+}
+
+ul li{
+    color: rgb(218, 225, 230);
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+
+}
+
+ol, ul {
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+}
+
